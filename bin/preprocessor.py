@@ -1,9 +1,19 @@
 import re
 
 class PreprocessDoc:
-    def removeSpclChar():
-        pass
-
-    def tokenizeArticle():
+    """
+    Module for preprocessin articles
+    """
+    def removeSpclChar(text):
+        """
+        Remove special Characters
+        
+        Input:
+            text: string
+        Output:
+            modifiedText: string
+        """
         pass
     
+    def tokenizeArticle():
+        pass
