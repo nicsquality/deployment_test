@@ -1,4 +1,4 @@
 data_path:
-  train_data: D:/NICS/Nics Docs/Deployment/Dep_190920/data/train
-  test_data:  D:/NICS/Nics Docs/Deployment/Dep_190920/data/test
+  train_data: D:/NICS/Nics Docs/Deployment/Dep_190920/data/train/article1.txt
+  test_data:  D:/NICS/Nics Docs/Deployment/Dep_190920/data/test/article3.txt
 sentence_num: 3
