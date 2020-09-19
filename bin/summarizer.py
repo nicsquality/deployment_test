@@ -1,9 +1,12 @@
 class SummarizeDoc:
-    def loadDoc():
+
+    def __init__(self):
+
+    def loadDoc(self):
         pass
     
-    def loadConfig():
+    def loadConfig(self):
         pass
 
-    def splitter():
+    def splitter(self):
         pass
