@@ -7,4 +7,4 @@ app = Flask(__name__)
 def addition():
     return 'Sum of 2 and 3 is: {}'.format(2 + 3)
 
-app.run(host='localhost', port=8023)
+app.run(host='0.0.0.0', port=80)
